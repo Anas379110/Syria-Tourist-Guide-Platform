@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — الدليل السياحي للمحافظات السورية
+# 🛠️ Technologies Used — Tourist Guide for the Syrian Governorates
 
 - Next.js
 - TypeScript

@@ -1,21 +1,20 @@
-# الدليل السياحي للمحافظات السورية
-**Syria Tourist Guide — Web & Mobile Platform** · التصنيف: ويب / تطبيق
+# Tourist Guide for the Syrian Governorates
+**Syria Tourist Guide — Web & Mobile Platform** · Category: Web / App
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
 > Project overview document — source code is not included.
 
-## نبذة عن المشروع
-منصة موقع ويب + تطبيق موبايل تجمع المعلومات الموثوقة عن المدن والمعالم والفنادق والخرائط في مكان واحد، بمحتوى عربي أساسي وإنجليزي لاحقاً.
+## Project Overview
+A web site + mobile app platform that consolidates reliable information about cities, landmarks, hotels, and maps in one place, with primary Arabic content and English later.
 
-## أبرز النقاط
-- دليل لكل محافظة ثم لكل مدينة وبلدة سياحية
-- تصنيفات: آثار، طبيعة، أسواق، مطاعم، فنادق، خدمات
-- خرائط ومسارات وصور وساعات العمل وأرقام التواصل
+## Key Points
+- A guide for each governorate and for each city and tourist town
+- Categories: Archaeological sites, Nature, Markets, Restaurants, Hotels, Services
+- Maps, routes, photos, opening hours, and contact numbers
 
-## الدور
-مطوّر ويب/تطبيقات: بناء تطبيق الويب من الواجهة حتى الخدمات الخلفية والتكاملات.
+## Role
+Web/Apps Developer: Build the web application from the frontend to backend services and integrations.
 
-## التقنيات المستخدمة
+## Technologies Used
 Next.js, TypeScript, Flutter, Google Maps API, PostgreSQL, next-intl (RTL), Vercel
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
